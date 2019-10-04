@@ -22,3 +22,19 @@ Three step commit process
     git add filename.rb
 * Commit the staged files
     git commit -m "Descriptive commit message to myself and others"
+
+to share code
+-------------
+log into github
+
+Press the plus button
+
+Copy and paste the second option into git bash
+
+Commit files
+
+git.push
+
+log in
+
+reload page
