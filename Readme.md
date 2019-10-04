@@ -19,6 +19,6 @@ Describe my project here.
 The command is `single line, inline`.
 ```
 list.each do |n|
-    puts ngit 
+    puts git 
 end
 ```
